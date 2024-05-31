@@ -1,4 +1,4 @@
-# :skull_and_crossbones: PFV (Protocols Formal Verification) :skull_and_crossbones:
+# :skull_and_crossbones: PENIS - Protocol Evaluation for Network Intrusion and Security :skull_and_crossbones:
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10819552.svg)](https://doi.org/10.5281/zenodo.10819552)
